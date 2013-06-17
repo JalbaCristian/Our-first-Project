@@ -4,4 +4,4 @@ Our-first-Project
 Antonache Emanuel, Jalba Cristian, Stancioiu Alexandru
 
 
-This is our first project. Please respect us for our job!
+This is our first project. Please feel happy to comment :)
